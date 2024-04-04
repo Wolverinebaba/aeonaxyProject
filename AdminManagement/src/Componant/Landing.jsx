@@ -12,15 +12,14 @@ function Landing() {
         </button>
         </div>
 
+
         <div className=' md:mx-[10vw]'>
             <ul className='flex gap-5 mt-4 text-grey-700'>
                 <li >All People</li>
                 <li>Groups</li>
                 <li>Management</li>
                 <li className='rounded-md px-2 text-center bg-blue-500 text-sm text-white'>Beta</li>
-
-            </ul>
-
+             </ul>
         </div>
      </div>
         
